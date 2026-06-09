@@ -1,5 +1,7 @@
 # vsphere8seg — VSMC vSphere 8 SCG P0/P1 強化工具
 
+*繁體中文 | [English](README.en.md)*
+
 針對 **VSMC 專案**所挑選的 **P0 / P1** vSphere 8 安全強化控制項（工作表
 `VSMC_vSphere8_SCG_Controls_P0-P1`），提供 PowerCLI / PowerShell 的
 **稽核（audit）** 與 **修復（remediate）** 腳本。
